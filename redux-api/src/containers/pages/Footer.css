@@ -1,0 +1,87 @@
+
+.container{
+    max-width: 80%;
+    margin:0 auto;
+}
+/* .footer{
+    margin-top:8%;
+    position: fixed;
+    bottom:0;
+} */
+.footer-content{
+    display: flex; 
+}
+.footer-content >div{
+     flex:1;   
+}
+.footer-content > div:last-child p {
+    text-align: right;
+}
+.footer-content > div:last-child ul li {
+    text-align: right;
+}
+.footer-content > div:last-child h5 {
+    text-align: right;
+} 
+ .footer-content >div h5{
+    text-align: left;
+    color:#172026;
+    font-size: 16px;
+ }
+
+.footer-content > div ul li{
+   text-align: left;
+    list-style-type: none;
+    margin-left:-20%;
+   
+}
+.footer-content >div ul li a{
+ text-decoration: none;
+ color:#535965;
+ margin-right:50px;
+}
+
+.footer-content >div ul.social-icons li{
+  display:inline-block;
+ margin: 10px 0 0 -16px;
+}
+
+
+.footer-content1{
+    display: flex;
+    padding-bottom:10px;
+}
+.footer-content1 > div{
+    flex:1;
+}
+.footer-content1 > div h2{
+    text-align: left;
+}
+.footer-content1 > div:last-child ul{
+    text-align: right;
+    float:right;
+}
+.footer-content1 > div:last-child ul li{
+    list-style-type:none;
+    display:inline-block;
+    margin-left: 10px;
+   
+
+}
+.footer-content1 > div:last-child ul li a{
+    color:#535965;
+     font-size:16px;
+
+}
+.underline-horizon{
+    margin:10px 0;
+}
+
+
+
+@media screen and(max-width:768px) {
+    .footer-content{
+        display:block;
+    }
+    
+}

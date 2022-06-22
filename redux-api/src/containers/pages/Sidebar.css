@@ -1,0 +1,73 @@
+.container{
+    max-width: 80%;
+    margin:0 auto;
+}
+.side-lists{
+    max-width: 25%;
+}
+.side-lists h4{
+  text-align: left;
+}
+.side-lists >div {
+    text-align: left;
+}
+/* .side-lists >div  h5{
+    margin:10px;
+} */
+.side-lists >div ul{
+    padding-left:0;
+}
+.side-lists >div ul li{
+    list-style-type: none;
+ 
+}
+.side-lists >div ul.colors-list{
+    /* display:flex;
+    align-items: center;
+    justify-content: space-between; */
+    max-width: 100%;
+}
+.side-lists >div ul.colors-list li{
+     display:inline-block;
+     width:21%;
+     border:1px solid green;
+     margin-right: 10px;
+}
+.side-lists >div ul.colors-list li{
+    height:40px;
+    border-radius:5px;
+}
+.side-lists >div ul.colors-list li.one{
+    background-color: #181C24;
+}
+.side-lists >div ul.colors-list li.two{
+    background-color:#FFFFFF;
+}
+.side-lists >div ul.colors-list li.three{
+    background-color: #B5B7BC;
+}
+.side-lists >div ul.colors-list li.four{
+    background-color: #238564;
+}
+.side-lists >div ul.colors-list li.five{
+    background-color: #D7373F;
+}
+.side-lists >div ul.colors-list li.six{
+    background-color: #91959C;
+}
+.side-lists >div ul.colors-list li.seven{
+    background-color: #172BC4;
+}
+.side-lists >div ul.colors-list li.eight{
+    background-color: #535965;
+}
+.side-lists >div ul.colors-list li.nine{
+    background-color: #EB00FF;
+}
+.side-lists >div ul.colors-list li.ten{
+    background-color: #545D63;
+}
+
+.side-lists .horizontal-line{
+    margin-top:15px;
+}

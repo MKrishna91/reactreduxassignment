@@ -1,0 +1,15 @@
+
+.card-images img{
+    width:280px;
+    height:280px;
+}
+.card-images{
+max-width: 300px;
+    height: 370px;
+    float: left;
+    border: 1px solid grey;
+    margin:10px 20px;
+}
+.card-header{
+    font-size:16px;
+}

@@ -1,0 +1,68 @@
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.Banner {
+    display: flex;
+    max-width: 100%;
+}
+
+.Banner>div {
+    flex: 1;
+}
+
+.Banner>div:last-child {
+    flex: 2;
+}
+
+.Banner-content-left {
+    background: #181C24;
+    position: relative;
+}
+
+.Banner-content-left>div {
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Banner-content-left h1 {
+    color: #fff;
+}
+
+.Banner-content-left h1::after {
+    position: absolute;
+    content: '';
+    height: 2px;
+    bottom: -90px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    width: 50%;
+    background: #1F39FF;
+    margin-top: 20px;
+    border: 1px solid #1F39FF;
+
+    /* optional animation */
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+
+}
+
+.Banner-content-right {
+    padding: 10px 0;
+}
+
+.Banner-content-right img {
+    width: 100%;
+    height: 300px;
+
+}
