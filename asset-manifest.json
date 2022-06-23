@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactassignment/static/css/main.828fcb4a.css",
-    "main.js": "/reactassignment/static/js/main.db28bbe9.js",
-    "static/media/banner.jpg": "/reactassignment/static/media/banner.da0c66238224d5f0cef9.jpg",
-    "static/media/instagram.svg": "/reactassignment/static/media/instagram.f7483e2a7dff4c35e5142659dd996bf6.svg",
-    "index.html": "/reactassignment/index.html",
-    "static/media/shopping-bag.svg": "/reactassignment/static/media/shopping-bag.7865a20d4f73677ab5144fd6411a11f8.svg",
-    "static/media/search.svg": "/reactassignment/static/media/search.d9388588132a09c360a92e9f450b2fa1.svg",
-    "static/media/user.svg": "/reactassignment/static/media/user.91483d78eeba2c3d646d79ed77b449f4.svg",
-    "static/media/twitter.svg": "/reactassignment/static/media/twitter.3d9f31115be6b897b5d45c0aad4c1c1f.svg",
-    "static/media/facebook.svg": "/reactassignment/static/media/facebook.b5b54c5572636785078aa70b8bdffe26.svg",
-    "main.828fcb4a.css.map": "/reactassignment/static/css/main.828fcb4a.css.map",
-    "main.db28bbe9.js.map": "/reactassignment/static/js/main.db28bbe9.js.map"
+    "main.css": "/reactreduxassignment/static/css/main.828fcb4a.css",
+    "main.js": "/reactreduxassignment/static/js/main.38333480.js",
+    "static/media/banner.jpg": "/reactreduxassignment/static/media/banner.da0c66238224d5f0cef9.jpg",
+    "index.html": "/reactreduxassignment/index.html",
+    "static/media/instagram.svg": "/reactreduxassignment/static/media/instagram.f7483e2a7dff4c35e5142659dd996bf6.svg",
+    "static/media/shopping-bag.svg": "/reactreduxassignment/static/media/shopping-bag.7865a20d4f73677ab5144fd6411a11f8.svg",
+    "static/media/search.svg": "/reactreduxassignment/static/media/search.d9388588132a09c360a92e9f450b2fa1.svg",
+    "static/media/user.svg": "/reactreduxassignment/static/media/user.91483d78eeba2c3d646d79ed77b449f4.svg",
+    "static/media/twitter.svg": "/reactreduxassignment/static/media/twitter.3d9f31115be6b897b5d45c0aad4c1c1f.svg",
+    "static/media/facebook.svg": "/reactreduxassignment/static/media/facebook.b5b54c5572636785078aa70b8bdffe26.svg",
+    "main.828fcb4a.css.map": "/reactreduxassignment/static/css/main.828fcb4a.css.map",
+    "main.38333480.js.map": "/reactreduxassignment/static/js/main.38333480.js.map"
   },
   "entrypoints": [
     "static/css/main.828fcb4a.css",
-    "static/js/main.db28bbe9.js"
+    "static/js/main.38333480.js"
   ]
 }
