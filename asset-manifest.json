@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactreduxassignment/static/css/main.828fcb4a.css",
-    "main.js": "/reactreduxassignment/static/js/main.38333480.js",
+    "main.js": "/reactreduxassignment/static/js/main.cbc96196.js",
     "static/media/banner.jpg": "/reactreduxassignment/static/media/banner.da0c66238224d5f0cef9.jpg",
     "index.html": "/reactreduxassignment/index.html",
     "static/media/instagram.svg": "/reactreduxassignment/static/media/instagram.f7483e2a7dff4c35e5142659dd996bf6.svg",
@@ -11,10 +11,10 @@
     "static/media/twitter.svg": "/reactreduxassignment/static/media/twitter.3d9f31115be6b897b5d45c0aad4c1c1f.svg",
     "static/media/facebook.svg": "/reactreduxassignment/static/media/facebook.b5b54c5572636785078aa70b8bdffe26.svg",
     "main.828fcb4a.css.map": "/reactreduxassignment/static/css/main.828fcb4a.css.map",
-    "main.38333480.js.map": "/reactreduxassignment/static/js/main.38333480.js.map"
+    "main.cbc96196.js.map": "/reactreduxassignment/static/js/main.cbc96196.js.map"
   },
   "entrypoints": [
     "static/css/main.828fcb4a.css",
-    "static/js/main.38333480.js"
+    "static/js/main.cbc96196.js"
   ]
 }
